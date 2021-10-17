@@ -1,13 +1,17 @@
 # **Weighted Association Rule Mining**
 
+This study has been published in 2019. Please cite this paper in your publications if it helps your research:
+   
+   - Analysis of Pre-Weighted and Post-Weighted Association Rule Mining [[**paper**]](https://github.com/aysesimsek/WARM/tree/main/Analysis_of_Pre-Weighted_and_Post-Weighted_Association_Rule_Mining.pdf) (**IEEE 2019**)
+   
+  
+
+    A. B. Cengiz, K. Ulas Birant and D. Birant, "Analysis of Pre-Weighted and Post-Weighted Association Rule Mining," 2019 Innovations in Intelligent Systems and Applications Conference (ASYU), 2019, pp. 1-5, doi: 10.1109/ASYU48272.2019.8946378.
+
+    
+
 ## **Getting Started**
 
-- This study has been published in 2019. Please cite this paper in your publications if it helps your research:
-    
-    ```` 
-    A. B. Cengiz, K. Ulas Birant and D. Birant, "Analysis of Pre-Weighted and Post-Weighted Association Rule Mining," 2019 Innovations in Intelligent Systems and Applications Conference (ASYU), 2019, pp. 1-5, doi: 10.1109/ASYU48272.2019.8946378.
-    ```` 
-    
 Association rule mining is a procedure which is meant to find frequent patterns, correlations, associations, or causal structures from data sets found in various kinds of databases such as relational databases, transactional databases, and other forms of data repositories. Given a set of transactions, association rule mining aims to find the rules which enable us to predict the occurrence of a specific item based on the occurrences of the other items in the transaction. Association rules are employed today in many application areas including market basket analysis, web usage mining, intrusion detection, continuous production, and bioinformatics.
 
 In order to select interesting rules from the set of all possible rules, constraints on various measures of significance and interest are used. The best-known constraints are minimum thresholds on support and confidence. 
