@@ -2,7 +2,7 @@
 
 This study has been published in 2019. Please cite this paper in your publications if it helps your research:
    
-   - Analysis of Pre-Weighted and Post-Weighted Association Rule Mining [[**paper**]](https://github.com/aysesimsek/WARM/tree/main/Analysis_of_Pre-Weighted_and_Post-Weighted_Association_Rule_Mining.pdf) (**IEEE 2019**)
+   - Analysis of Pre-Weighted and Post-Weighted Association Rule Mining [[**paper**]](https://ieeexplore.ieee.org/abstract/document/8946378) (**IEEE 2019**)
    
   
 
